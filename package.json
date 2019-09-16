@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bigfile/web-rpc-client#readme",
   "dependencies": {
+    "google-protobuf": "^3.10.0-rc.1",
     "grpc-web": "^1.0.6"
   }
 }
